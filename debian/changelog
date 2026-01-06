@@ -1,5 +1,11 @@
 dde-tray-loader (2.0.21) unstable; urgency=medium
 
+  * Release 2.0.21
+
+ -- zhangkun <zhangkun2@uniontech.com>  Tue, 06 Jan 2026 20:12:12 +0800
+
+dde-tray-loader (2.0.21) unstable; urgency=medium
+
   * fix: fix active output device detection logic
   * fix: not be able to undock xembed tray
   * feat: register tray selectionmanager on wayland
